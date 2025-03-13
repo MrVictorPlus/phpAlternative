@@ -61,10 +61,10 @@
 ```json
 [
     {
-        "question": "string",      // Текст вопроса
-        "type": "string",          // Тип вопроса: "single" (один ответ) или "multiple" (несколько ответов)
-        "options": ["string"],     // Варианты ответов
-        "correct": ["string"]      // Правильные ответы
+        "question": "string",     
+        "type": "string",          
+        "options": ["string"],    
+        "correct": ["string"]      
     }
 ]
 ```
@@ -75,10 +75,10 @@
 ```json
 [
     {
-        "name": "string",         // Имя пользователя
-        "score": "integer",       // Количество правильных ответов
-        "total": "integer",       // Общее количество вопросов
-        "percent": "float"        // Процент правильных ответов
+        "name": "string",         
+        "score": "integer",       
+        "total": "integer",       
+        "percent": "float"        
     }
 ]
 ```
