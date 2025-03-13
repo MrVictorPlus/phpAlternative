@@ -16,7 +16,7 @@ unset($_SESSION['error']);
 </head>
 <body>
     <div class="container">
-        <h1>Тест по Dota 2</h1>
+        <h1>Тест по Dota2</h1>
         <form action="result.php" method="POST">
         <label><strong>Введите ваше имя:</strong></label>
         <input type="text" name="username" required>
