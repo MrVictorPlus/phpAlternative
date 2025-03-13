@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Какой атрибут является основным у героя Juggernaut?",
+        "type": "single",
+        "options": ["Сила", "Ловкость", "Интеллект", "У героя нет основного атрибута"],
+        "correct": ["Ловкость"]
+    },
+    {
+        "question": "Какой герой может украсть способности у других героев?",
+        "type": "single",
+        "options": ["Rubick", "Invoker", "Bane", "Tinker"],
+        "correct": ["Rubick"]
+    },
+    {
+        "question": "Какой предмет делает героя невидимым при использовании?",
+        "type": "single",
+        "options": ["Black King Bar", "Blink Dagger", "Shadow Blade", "Desolator"],
+        "correct": ["Shadow Blade"]
+    },
+    {
+        "question": "Какой из этих героев является саппортом?",
+        "type": "single",
+        "options": ["Crystal Maiden", "Anti-Mage", "Phantom Assassin", "Slark"],
+        "correct": ["Crystal Maiden"]
+    },
+    {
+        "question": "Какой герой может использовать способность 'Hook'?",
+        "type": "single",
+        "options": ["Pudge", "Mirana", "Lina", "Axe"],
+        "correct": ["Pudge"]
+    },
+    {
+        "question": "Какие из этих предметов дают вампиризм (lifesteal)?",
+        "type": "multiple",
+        "options": ["Satanic", "Mask of Madness", "Desolator", "Battle Fury"],
+        "correct": ["Satanic", "Mask of Madness"]
+    },
+    {
+        "question": "Какой герой может управлять медведем?",
+        "type": "single",
+        "options": ["Lone Druid", "Lycan", "Beastmaster", "Ursa"],
+        "correct": ["Lone Druid"]
+    },
+    {
+        "question": "Какой предмет может мгновенно телепортировать героя?",
+        "type": "single",
+        "options": ["Boots of Travel", "Blink Dagger", "Force Staff", "Aether Lens"],
+        "correct": ["Boots of Travel"]
+    },
+    {
+        "question": "Какие из этих героев являются ловкачами?",
+        "type": "multiple",
+        "options": ["Phantom Assassin", "Terrorblade", "Lina", "Bristleback"],
+        "correct": ["Phantom Assassin", "Terrorblade"]
+    },
+    {
+        "question": "Какой герой может перемещаться по деревьям?",
+        "type": "single",
+        "options": ["Monkey King", "Treant Protector", "Batrider", "Riki"],
+        "correct": ["Monkey King"]
+    }
+]
